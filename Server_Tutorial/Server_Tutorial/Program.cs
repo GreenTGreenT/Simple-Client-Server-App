@@ -19,7 +19,7 @@ namespace Server_Tutorial
             {
                 server.Start();
                 Console.WriteLine("Server started...");
-                Console.Read();
+                
             }
             catch(Exception ex)
             {
